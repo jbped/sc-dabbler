@@ -1,10 +1,6 @@
-// Class
 import Planet from '../../../classes/arkMap/Planet';
-
-// Dependencies
 import { Stanton } from '../stantonSystem';
 
-// Declare
 export const Crusader = new Planet(
   'Crusader',
   'CRU',
